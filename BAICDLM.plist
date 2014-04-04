@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://qd.baidupcs.com/file/55e49194068c50bedf5ef2b0b978b493?xcode=732661afadf21837979d79ba7da16d659cccaf3a7ae35877&fid=4076966545-250528-655140419773987&time=1396580457&sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-p83Pbjm9%2Bd3cVxNPVy%2BR0Ic%2BdU4%3D&to=qb&fm=Q,B,T,t&newver=1&expires=1396581889&rt=sh&r=217458463&logid=1078223616&sh=1&vuk=4076966545&fn=BAICDLM.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://pan.baidu.com/s/1mgAyOru</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://pan.baidu.com/s/1sjtZAup</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.baw.dlm</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>BAICDLM88</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
